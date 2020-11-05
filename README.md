@@ -5,7 +5,7 @@
 
 ## Bienvenido! :hand:
 
-Soy Rubén Mata, Técnico Administrador de Sistemas Informáticos en Red y Técnico Desarrollador de Webs.
+Hola, aquí podrás encontrar mis repositorios, espero que te sirvan de ayuda y de agrado :happy:
 
 ## Sobre mí
 
