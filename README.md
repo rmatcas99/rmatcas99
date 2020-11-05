@@ -5,7 +5,7 @@
 
 ## Bienvenido! :hand:
 
-Hola, aquí podrás encontrar mis repositorios, espero que te sirvan de ayuda y de agrado :happy:
+Hola, aquí podrás encontrar mis repositorios, espero que te sirvan de ayuda y de agrado.
 
 ## Sobre mí
 
