@@ -7,8 +7,8 @@
 
 Hola, aquí podrás encontrar mis repositorios, espero que te sirvan de ayuda y de agrado.
 
-## Sobre mí
+//## Sobre mí
 
-* Me gusta todo lo que tenga que ver con la informática
+//* Me gusta todo lo que tenga que ver con la informática
 
-* Soy simpático y amable
+//* Soy simpático y amable
